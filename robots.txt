@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vicky-joy.github.io/sitemap.xml
